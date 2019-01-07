@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="no_news">No news found.</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title" translatable="false">AppNews Settings</string>
+
+    <string name="settings_topics_label">Topics</string>
+    <string name="settings_topics_key" translatable="false">topics_key</string>
+    <string name="settings_topics_default" translatable="false">brasil</string>
+
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_orderby_newest_value</string>
+
+    <string name="settings_orderby_newest_label">Newest</string>
+    <string name="settings_orderby_newest_value" translatable="false">newest</string>
+
+    <string name="settings_orderby_oldest_label">Oldest</string>
+    <string name="settings_orderby_oldest_value" translatable="false">oldest</string>
+</resources>

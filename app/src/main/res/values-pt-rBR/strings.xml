@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="no_internet_connection">Sem conexão com internet</string>
+    <string name="no_news">sem novas noticias</string>
+    <string name="settings_menu_item">Configurações</string>
+    <string name="settings_topics_label">Assunto</string>
+    <string name="settings_orderby_newest_label">Mais recente</string>
+    <string name="settings_orderby_oldest_label">Mais antiga</string>
+    <string name="settings_order_by_label">Ordenado por</string>
+</resources>
